@@ -5,3 +5,10 @@ In our course we are trying to teach our students about git and GitHub using thi
 Instructors:
 [Daniel Al-Yousef](https://www.linkedin.com/in/danialalyousef/)
 [Mahmoud Abo-Shukr](https://www.linkedin.com/in/mahmoud-abo-shukr-485900270/)
+
+
+## Rules for the students:
+- clone the repo and add a directory with your name to work with
+- you can use some help from the KNN_and_K_means notebook
+- getting your data from Kaggle is a preferred option
+- DO NOT PUSH YOUR DATA, ONLY THE NOTEBOOK
